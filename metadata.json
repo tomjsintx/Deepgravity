@@ -1,0 +1,6 @@
+{
+  "name": "DeepGravity",
+  "description": "DeepGravity - Autonomous native Android AI coding agent with multi-model intelligence, workspace code editor, terminal, computer simulation, and MCP tool orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

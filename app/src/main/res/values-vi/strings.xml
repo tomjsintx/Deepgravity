@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeepGravity</string>
+    <string name="nav_chat">Trò chuyện Agent</string>
+    <string name="nav_workspace">Không gian làm việc</string>
+    <string name="nav_computer">Máy tính ảo</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_tools">Công cụ MCP</string>
+    <string name="nav_providers">Nhà cung cấp AI</string>
+    <string name="nav_settings">Cài đặt</string>
+    <string name="tagline">Trợ lý Lập trình AI Android Bản địa</string>
+</resources>
